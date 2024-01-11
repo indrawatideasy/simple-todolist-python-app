@@ -1,11 +1,11 @@
-To-Do List Application
+# To-Do List Application
 
-![Screenshot 2024-01-11 at 20.37.58.png]
+![Screenshot 2024-01-11 at 20.37.58.png](https://github.com/indrawatideasy/simple-todolist-python-app/blob/main/Screenshot%202024-01-11%20at%2020.37.58.png)
 
-Description:
+## Description:
 Create a basic to-do list application that allows users to add tasks, mark them as complete, and remove them. This project will help you practice working with data storage, user input, and basic user interface concepts.
 
-Features:
+## Features:
 
 Task Management:
 
