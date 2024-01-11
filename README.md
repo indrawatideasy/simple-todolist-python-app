@@ -8,25 +8,24 @@ Create a basic to-do list application that allows users to add tasks, mark them 
 ## Features:
 
 Task Management:
-
 Add tasks with a title and description.
 Mark tasks as completed.
 Remove tasks.
-Data Storage:
 
+Data Storage:
 Store tasks in a data structure (e.g., list, dictionary).
 Save tasks to a file to persist data between sessions.
 Load tasks from the file when the application starts.
-User Interface:
 
+User Interface:
 Create a simple command-line interface using text-based menus.
 Display the list of tasks with their status (pending or completed).
 Allow users to interact with the application through text commands (e.g., add, complete, remove).
+
 Error Handling:
-
 Implement basic error handling to handle incorrect user inputs gracefully.
-Optional Enhancements:
 
+Optional Enhancements:
 Prioritize tasks and display them in order of priority.
 Add due dates to tasks.
 Implement color-coding for different task statuses.
